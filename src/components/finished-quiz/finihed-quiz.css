@@ -1,0 +1,27 @@
+.finishedQuiz{
+    padding: 20px;
+    /* color: blanchedalmond; */
+    border: 2px solid #fff;
+    background: #fff;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 0 10px;
+    text-align: left;
+}
+
+.finishedQuiz ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+i {
+    padding-left: 7px;
+}
+.fa.fa-times {
+    color: rgba(240, 87, 108, .8);
+}
+
+.fa.fa-check {
+    color: rgba(161, 240, 69, .8);
+}

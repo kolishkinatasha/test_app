@@ -1,0 +1,16 @@
+.activeQuiz {
+    background-color: white;
+    opacity: 90%;
+    font-weight: 500;
+    border: 2px solid #e8f5c8;
+    border-radius: 10px;
+    width: 90%;
+    margin-left: 60px;
+    text-align: left;
+}
+
+.question {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
